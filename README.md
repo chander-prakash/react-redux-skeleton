@@ -6,7 +6,7 @@ npm start
 ```
 
 
-This project is based on [Create React App](https://github.com/facebookincubator/create-react-app) with the addition of `redux` and `react-redux`. It has a reducer template and the `store` is available via `window.store`.
+This project is based on [Create React App](https://github.com/facebookincubator/create-react-app) with the addition of `redux`, `react-redux` and `redux-logger`. It has a reducer template and the `store` is available via `window.store` (in DEV only).
 
 Below you will find some information on how to perform common tasks.
 
